@@ -1,1 +1,2 @@
 Criar um constructor para criar um cadastro no javascript.
+Antes ainda assistir as aulas sobre javascript.
